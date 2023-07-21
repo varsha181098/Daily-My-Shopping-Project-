@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-poppins: Poppins;
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --white: #fff;
+  --neutral-600: #525252;
+  --neutral-200: #e5e5e5;
+  --neutral-400: #a3a3a3;
+  --blue-600: #2563eb;
+  --neutral-300: #d4d4d4;
+  --color-gray: #262626;
+  --gap-8xs: 5px;
+  --padding-3xs: 10px;
+  --padding-xl: 20px;
+  --padding-mini: 15px;
+  --br-8xs: 5px;
+}
+
+/*# sourceMappingURL=login.12c9ce1a.css.map */
